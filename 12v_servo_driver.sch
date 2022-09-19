@@ -4,10 +4,10 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "DRV120 Solenoid Driver Module"
-Date "2022-02-24"
-Rev "B"
-Comp "Mark Benson 2022"
+Title "12v Servo Driver Module"
+Date "2022-09-19"
+Rev "A"
+Comp "theworkisthework"
 Comment1 "Licence MIT"
 Comment2 ""
 Comment3 ""
