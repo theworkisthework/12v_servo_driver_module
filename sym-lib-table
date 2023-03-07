@@ -1,3 +1,5 @@
 (sym_lib_table
-  (lib (name custom)(type Legacy)(uri ${KIPRJMOD}/custom.lib)(options "")(descr ""))
+  (version 7)
+  (lib (name "custom")(type "Legacy")(uri "${KIPRJMOD}/custom.lib")(options "")(descr ""))
+  (lib (name "12v_servo_driver-rescue")(type "KiCad")(uri "${KIPRJMOD}/12v_servo_driver-rescue.kicad_sym")(options "")(descr ""))
 )
